@@ -1,0 +1,13 @@
+D:\RaulW\Projetos C# OO\vs-exercisise-poo1\exercise02\exercise02\exercise02\bin\Debug\netcoreapp3.1\exercise02.exe
+D:\RaulW\Projetos C# OO\vs-exercisise-poo1\exercise02\exercise02\exercise02\bin\Debug\netcoreapp3.1\exercise02.deps.json
+D:\RaulW\Projetos C# OO\vs-exercisise-poo1\exercise02\exercise02\exercise02\bin\Debug\netcoreapp3.1\exercise02.runtimeconfig.json
+D:\RaulW\Projetos C# OO\vs-exercisise-poo1\exercise02\exercise02\exercise02\bin\Debug\netcoreapp3.1\exercise02.runtimeconfig.dev.json
+D:\RaulW\Projetos C# OO\vs-exercisise-poo1\exercise02\exercise02\exercise02\bin\Debug\netcoreapp3.1\exercise02.dll
+D:\RaulW\Projetos C# OO\vs-exercisise-poo1\exercise02\exercise02\exercise02\bin\Debug\netcoreapp3.1\exercise02.pdb
+D:\RaulW\Projetos C# OO\vs-exercisise-poo1\exercise02\exercise02\exercise02\obj\Debug\netcoreapp3.1\exercise02.csprojAssemblyReference.cache
+D:\RaulW\Projetos C# OO\vs-exercisise-poo1\exercise02\exercise02\exercise02\obj\Debug\netcoreapp3.1\exercise02.AssemblyInfoInputs.cache
+D:\RaulW\Projetos C# OO\vs-exercisise-poo1\exercise02\exercise02\exercise02\obj\Debug\netcoreapp3.1\exercise02.AssemblyInfo.cs
+D:\RaulW\Projetos C# OO\vs-exercisise-poo1\exercise02\exercise02\exercise02\obj\Debug\netcoreapp3.1\exercise02.csproj.CoreCompileInputs.cache
+D:\RaulW\Projetos C# OO\vs-exercisise-poo1\exercise02\exercise02\exercise02\obj\Debug\netcoreapp3.1\exercise02.dll
+D:\RaulW\Projetos C# OO\vs-exercisise-poo1\exercise02\exercise02\exercise02\obj\Debug\netcoreapp3.1\exercise02.pdb
+D:\RaulW\Projetos C# OO\vs-exercisise-poo1\exercise02\exercise02\exercise02\obj\Debug\netcoreapp3.1\exercise02.genruntimeconfig.cache
